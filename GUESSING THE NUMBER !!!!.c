@@ -22,3 +22,5 @@ int main()
     while(guess != number);
     return 0; 
 }
+
+// Author - Divy Singhal
